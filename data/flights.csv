@@ -1,4 +1,4 @@
-"id","plane","departure airport","destination","departure time","arrival time","key"
+"id","plane","departure","destination","departTime","arrivalTime","key"
 "V001","Condor I","Fort Nelson Airport","Dease Lake Airport","0800","0930","1"
 "V002","Condor I","Dease Lake Airport","Fort St. John Airport","1000","1200","2"
 "V003","Condor I","Fort St. John Airport","Abbotsford Airport","1230","1440","3"
